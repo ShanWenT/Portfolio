@@ -1,2 +1,2 @@
-Disclaimer: This project is only for practice and reinforcement learning.
+Disclaimer: This project is only for practicing and reenforcing learning concepts.
 All credit goes to John Doe on youtube for sharing this amazing project.
