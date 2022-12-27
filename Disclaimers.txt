@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Disclaimer: This project is only for practicing and reenforcing learning concepts.
-All credit goes to John Doe on youtube for sharing this amazing project.
-=======
-Disclaimer: This project is only for practice and reinforcing learning concepts.
-All credit goes to John Doe on youtube for sharing this amazing project.
->>>>>>> 5a4fc7ae4466099ae9536da752ce25e5bade7c5a
